@@ -1,4 +1,4 @@
-# ML---housing-prediction-
+# ML Housing Prediction
 
 This repository contains machine learning experiments and feature engineering for housing price data analysis using Python and scikit-learn.
 
